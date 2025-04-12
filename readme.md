@@ -1,6 +1,6 @@
 #  HTB - LinkVortex  Privilege Escalation  AutoPwn Script
 
-This is an automated privilege escalation script for the Hack The Box machine **LinkVortex**, which exploits an insecure `sudo` configuration and symbolic link processing vulnerability.
+This is an automated privilege escalation script for the Hack The Box machine **LinkVortex**, which exploits an insecure `sudo` configuration and symbolic link processing vulnerability. Full write Up -> [WriteUp.md](https://github.com/maikneysm/AutoPwn-LinkVortex.htb/blob/main/WriteUp.md)
 
 ---
 ## 📋 Description
