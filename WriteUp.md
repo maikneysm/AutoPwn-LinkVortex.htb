@@ -241,7 +241,7 @@ root@linkvortex:~# cat root.txt
 ```
 ---
 ### 7. AutoPWN Privilege Escalation Script
-- Script `autopwn_root.py` automates the entire  privilege escalation, more info -> [[Autopwn/LinkVortext/readme|readme]]
+- Script `autopwn_root.py` automates the entire  privilege escalation, more info -> [Autopwn LinkVortext](https://github.com/maikneysm/AutoPwn-LinkVortex.htb/blob/main/readme.md)
 - Uses `paramiko` to connect as `bob`, extract the root SSH private key, and spawn an interactive root shell
 ---
 ### 8. Mitigations
