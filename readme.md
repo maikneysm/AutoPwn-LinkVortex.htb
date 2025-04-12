@@ -53,9 +53,16 @@ python3 autopwn_root.py --target 10.10.11.47 \
 ---
 ### 🛠️ Features
 ✔️ Initial SSH connection as `bob`
+
 ✔️ Creation of a double symlink (`id_rsa.txt` ➜ `/root/.ssh/id_rsa` ➜ `id_rsa.png`)
+
 ✔️ Execution of the script using `sudo CHECK_CONTENT=true ...`
+
 ✔️ Output parsing to extract the private key
+
 ✔️ Saving the key as `id_rsa_root`
+
 ✔️ New SSH connection as `root`
+
 ✔️ Interactive root shell using `paramiko.invoke_shell()`
+
