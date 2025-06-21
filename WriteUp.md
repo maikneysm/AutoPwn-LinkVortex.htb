@@ -5,6 +5,7 @@
 - **Machine :** https://app.hackthebox.com/machines/638
 - **Category:** Linux / Web / Git / Misconfigured sudo / Symlink
 - **Difficulty:** Easy
+- **AutoPwn Exploit script: 🔗** → [autopwn_root.py](https://github.com/maikneysm/AutoPwn-LinkVortex.htb/blob/main/autopwn_root.py)
 - **Summary:** This machine leverages Ghost CMS with a file-read vulnerability (CVE-2023-40028), a leaked Git repository, and a misconfigured sudo script that allows privilege escalation to root via symbolic link abuse.
 ---
 ## 1. Enumeration & Recon
